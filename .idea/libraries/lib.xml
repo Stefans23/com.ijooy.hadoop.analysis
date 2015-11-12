@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://E:/cygwin64/home/stefans/hadoop-2.7.1/share/hadoop/common/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/cygwin64/home/stefans/hadoop-2.7.1/share/hadoop/common/lib" />
+    </SOURCES>
+    <jarDirectory url="file://E:/cygwin64/home/stefans/hadoop-2.7.1/share/hadoop/common/lib" recursive="false" />
+    <jarDirectory url="file://E:/cygwin64/home/stefans/hadoop-2.7.1/share/hadoop/common/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
